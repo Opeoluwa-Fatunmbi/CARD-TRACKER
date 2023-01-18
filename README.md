@@ -1,6 +1,9 @@
 # CARD-TRACKER
 
 
+This code is just a simulation of how it could work and that it needs a API endpoint that could give the location of the card.
+Also, you should keep in mind that you need to make sure that you are following the laws and regulations of your country and that you are not breaking any terms of service from the API endpoint.
+
 
 ATM cards, also known as bank cards or debit cards, are plastic cards with a magnetic strip or chip that is used to make transactions at automated teller machines 
 (ATMs) and point-of-sale terminals.
